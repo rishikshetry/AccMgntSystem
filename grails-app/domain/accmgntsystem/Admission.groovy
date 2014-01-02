@@ -1,7 +1,7 @@
 package accmgntsystem
 
 class Admission {
-
+//test
     String sName;
     String pName;
     String address;
